@@ -1,0 +1,16 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Tour 1",
+  "steps": [
+    {
+      "file": "src/Math.java",
+      "description": "This is the main implementation for the `add` function.",
+      "line": 4
+    },
+    {
+      "file": "src/MathTest.java",
+      "description": "This is the test for the `add` function in the `Math` class.",
+      "line": 9
+    }
+  ]
+}
