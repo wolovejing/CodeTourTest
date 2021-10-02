@@ -10,7 +10,7 @@
     {
       "file": "src/MathTest.java",
       "description": "This is the test for the `add` function in the `Math` class.",
-      "line": 9
+      "line": 4
     }
   ]
 }
