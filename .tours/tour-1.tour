@@ -4,7 +4,7 @@
   "steps": [
     {
       "file": "src/Math.java",
-      "description": "This is the main implementation for the `add` function.",
+      "description": "This is the main implementation for the `add` function.\r\n```js\r\nvar i = 0\r\n```",
       "line": 4
     },
     {
